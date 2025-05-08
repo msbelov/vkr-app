@@ -1,1 +1,1 @@
-# vkr-app
+# Python 3.10
